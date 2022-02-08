@@ -29,3 +29,5 @@ function destructivelyDeleteFromEmployeeByKey(object, key){
 
     return object;
 }
+
+console.log("Hello world");
